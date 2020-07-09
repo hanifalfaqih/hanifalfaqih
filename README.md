@@ -1,6 +1,6 @@
 ### Hi there! I'm Hanif 👋
 - 🌱 I’m currently learning Kotlin and Android
-- 📫 How to reach me? <a href="mailto:maulanahanif33@gmail.com">Email</a>, <a href="linkedin.com/in/alfaqih">Linkedin</a>, <a href="t.me/+6282221365052">Telegram</a>, or <a href="twitter.com/al_lanaaa">Twitter</a>
+- 📫 How to reach me? <a href="mailto:maulanahanif33@gmail.com">Email</a>, <a href="https://linkedin.com/in/alfaqih">Linkedin</a>, or <a href="https://twitter.com/al_lanaaa">Twitter</a>
 - i'm 17 y.o
 
 <!--
