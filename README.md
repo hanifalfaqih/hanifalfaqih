@@ -28,13 +28,14 @@ I’m a Software Engineering student at **BINUS University**, focusing on Androi
 
 🏆 **Awards & Certifications**  
 - **Awards**:  
+  - 4th Place at Dinacom Apps 2025 - Software Development
   - 1st Place at BeeFest 2023 - Software Engineering Development  
-  - 4th Place at Traspac IT Competition 2023 - Software System Web/Mobile  
+  - 4th Place at Traspac IT Competition 2023 - Software System Web/Mobile
+  - Finalist Hackathon Pijar Camp 2023 
   - Winner of IDCamp X KADIN Challenge 2023  
 - **Certifications**:  
   - Android Engineering Bootcamp  
   - IT Essentials  
-  - The Non-Technical Skills of Effective Data Scientists  
 
 🛠 **Skills**  
 - Teamwork | API Integration | Debugging | Android Development | Kotlin  
