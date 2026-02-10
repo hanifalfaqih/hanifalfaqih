@@ -1,7 +1,7 @@
 # Hi, I'm Maulana Hanif Al Faqih Rojichan! 👋
 
 🌱 **About Me**  
-I’m a Software Engineering student at **BINUS University**, focusing on Android development while currently diving into **Data Science** and **Data Analytics**. Based in Bekasi, West Java, Indonesia, I have experience as an Android Developer at **Jarivis** and **CAN Creative**, with a proven track record of building mobile applications such as CRM systems and management tools.
+I’m a Software Engineering student at **BINUS University**, focusing on Android development while currently diving into and **Data Analytics**. Based in Bekasi, West Java, Indonesia, I have experience as an Android Developer at **Jarivis** and **CAN Creative**, with a proven track record of building mobile applications such as CRM systems and management tools.
 
 📫 **Contact Me**  
 - Email: [maulana.rojichan@binus.ac.id](mailto:maulana.rojichan@binus.ac.id)
